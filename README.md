@@ -152,7 +152,7 @@ I have done my test from multiple DNS server, including my own [Unbound](https:/
 I filtered the full list to keep only active DNSBL, then I did my best to remove all white lists and the duplicates one.
 For example, `zen.spamhaus.org` is the combination of all Spamhaus DNSBLs `SBL, SBLCSS, XBL and PBL` or `multi.uribl.com` is the combination of all uribl.com DNSBLs `black.uribl.com grey.uribl.com red.uribl.com and white.uribl.com`
 
-Here is all unique DNSBLs I found to be active in alphabetical order. You can find this list in a [raw format here](https://raw.githubusercontent.com/zbetcheckin/DNSBLs/blob/master/active_dnsbls.txt)
+Here is all unique DNSBLs I found to be active in alphabetical order. You can find this list in a [raw format here](https://raw.githubusercontent.com/zbetcheckin/DNSBLs/master/active_dnsbls.txt)
 
 
 Nb | Name | :ballot_box_with_check:
